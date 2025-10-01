@@ -6,13 +6,13 @@
 
 ### ⚙️ Tech Stack
 
-**Languages**  
+**:: Languages**  
 HTML • CSS • JavaScript • Java • TypeScript • Rust  
 
-**Frameworks & Libraries**  
+**:: Frameworks & Libraries**  
 Node.js • React.js • SvelteKit  
 
-**Infrastructure**  
+**:: Infrastructure**  
 Linux • nginx • PostgreSQL • Cloud • Podman  
 
 ---
@@ -26,5 +26,5 @@ Linux • nginx • PostgreSQL • Cloud • Podman
 ---
 
 ### Quote
-> “Logic. Reason. Form.”  
+> "Logic. Reason. Form."
 > — Hwan
