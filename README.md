@@ -15,9 +15,6 @@ Node.js • React.js • SvelteKit
 **Infrastructure**  
 Linux • nginx • PostgreSQL • Cloud • Podman  
 
-> I build logic, not interfaces.  
-> I design systems that think.  
-
 ---
 
 ### 📊 Stats
@@ -26,13 +23,8 @@ Linux • nginx • PostgreSQL • Cloud • Podman
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=667700996&theme=dark&hide_border=true" width="48%">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=667700996&layout=compact&theme=dark&hide_border=true" width="48%">
-  <img src="https://github-contributor-stats.vercel.app/api?username=667700996&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" width="48%">
-</p>
-
 ---
 
 ### 🧩 Quote
 > "Logic. Reason. Form."
-> - Hwan
+> — Hwan
