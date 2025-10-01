@@ -7,7 +7,7 @@
 ### ⚙️ Tech Stack
 
 **Languages**  
-Rust • TypeScript • JavaScript • Java • HTML • CSS  
+HTML • CSS • JavaScript • Java • TypeScript • Rust  
 
 **Frameworks & Libraries**  
 Node.js • React.js • SvelteKit  
@@ -21,10 +21,6 @@ Linux • nginx • PostgreSQL • Cloud • Podman
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=667700996&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=667700996&theme=dark&hide_border=true" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=667700996&limit=5&theme=dark&hide_border=true" width="60%">
 </p>
 
 ---
