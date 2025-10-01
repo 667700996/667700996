@@ -23,6 +23,10 @@ Linux • nginx • PostgreSQL • Cloud • Podman
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=667700996&theme=dark&hide_border=true" width="48%">
 </p>
 
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=667700996&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" width="60%">
+</p>
+
 ---
 
 ### 🧩 Quote
