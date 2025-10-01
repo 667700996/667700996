@@ -26,5 +26,5 @@ Linux • nginx • PostgreSQL • Cloud • Podman
 ---
 
 ### 🧩 Quote
-> "Logic. Reason. Form."
+> "Logic. Reason. Form." 
 > — Hwan
