@@ -24,7 +24,7 @@ Linux • nginx • PostgreSQL • Cloud • Podman
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=667700996&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" width="60%">
+  <img src="https://github-contributor-stats.vercel.app/api?username=667700996&limit=5&theme=dark&hide_border=true" width="60%">
 </p>
 
 ---
