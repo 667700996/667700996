@@ -3,6 +3,12 @@
 
 ---
 
+I’m a full-stack developer bridging AI research, scalable infrastructure, and thoughtful front-end design. From AI prompt engineering to large-scale infrastructure, I design precise and reliable systems.
+
+I’m not just someone who works with technology — I solve problems through reasoning. Code reflects structured thought, and every system embodies logic refined through clarity.
+
+---
+
 ### Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=667700996&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" width="48%">
