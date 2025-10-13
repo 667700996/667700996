@@ -18,9 +18,8 @@ I’m not just someone who works with technology — I solve problems through re
   <a href="https://solved.ac/667700996">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=667700996" alt="Solved.ac Profile" width="48%">
   </a>
+  <img src="http://mazandi.herokuapp.com/api?handle=667700996&theme=dark" alt="mazandi profile" width="48%">
 </div>
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=667700996&theme=dark)
 
 <hr>
 
