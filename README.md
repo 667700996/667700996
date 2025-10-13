@@ -1,12 +1,12 @@
 <h1 align="center">Hwan</h1>
 <p align="center"><b>AI Researcher • Full-Stack Architect • Systems Leader</b></p>
-<hr style="border:0;height:0.1px;background:#21262d;margin:40px 0;">
+<p align="center">---</p>
 
 ### Introduce
 I’m a full-stack developer bridging AI research, scalable infrastructure, and thoughtful front-end design. From AI prompt engineering to large-scale infrastructure, I design precise and reliable systems.
 
 I’m not just someone who works with technology — I solve problems through reasoning. Code reflects structured thought, and every system embodies logic refined through clarity.
-<hr style="border:0;height:0.1px;background:#21262d;margin:40px 0;">
+<p align="center">---</p>
 
 ### Stats
 <p align="center">
@@ -19,7 +19,7 @@ I’m not just someone who works with technology — I solve problems through re
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=667700996" alt="Solved.ac Profile" width="48%">
   </a>
 </p>
-<hr style="border:0;height:0.1px;background:#21262d;margin:40px 0;">
+<p align="center">---</p>
 
 ### Quote
 > "Logic. Reason. Form."  
