@@ -21,6 +21,8 @@ I’m not just someone who works with technology — I solve problems through re
   </a>
 </div>
 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=667700996&theme=warm)
+
 <hr>
 
 ### 🗨️ Quote
