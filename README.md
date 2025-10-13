@@ -3,7 +3,7 @@
 <hr>
 
 <h3>
-  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-24.svg" width="20" height="20" alt="Profile icon">
+  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-24.svg" width="20" height="20" alt="Profile icon" style="filter:invert(1);vertical-align:middle;">
   Introduce
 </h3>
 I’m a full-stack developer bridging AI research, scalable infrastructure, and thoughtful front-end design. From AI prompt engineering to large-scale infrastructure, I design precise and reliable systems.
@@ -13,7 +13,7 @@ I’m not just someone who works with technology — I solve problems through re
 <hr>
 
 <h3>
-  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/graph-24.svg" width="20" height="20" alt="Stats icon">
+  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/graph-24.svg" width="20" height="20" alt="Stats icon" style="filter:invert(1);vertical-align:middle;">
   Stats
 </h3>
 <div align="center">
@@ -30,8 +30,10 @@ I’m not just someone who works with technology — I solve problems through re
 <hr>
 
 <h3>
-  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/quote-24.svg" width="20" height="20" alt="Quote icon">
+  <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/quote-24.svg" width="20" height="20" alt="Quote icon" style="filter:invert(1);vertical-align:middle;">
   Quote
 </h3>
-> "Logic. Reason. Form."  
-> — Hwan
+<blockquote>
+  <p>"Logic. Reason. Form."</p>
+  <p>— Hwan</p>
+</blockquote>
