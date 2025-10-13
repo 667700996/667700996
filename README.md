@@ -17,6 +17,14 @@ I’m not just someone who works with technology — I solve problems through re
   <img src="https://github-readme-stats.vercel.app/api?username=667700996&show_icons=true&include_all_commits=true&count_private=true&hide=prs,issues,contribs&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=667700996&layout=compact&langs_count=6&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" width="48%">
 </p>
+<p align="center">
+  <a href="https://solved.ac/667700996">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=667700996" alt="Solved.ac Profile">
+  </a>
+  <a href="https://solved.ac/profile/667700996/arena">
+    <img src="https://solvedac.junah.dev/v1/generate_badge?handle=667700996" alt="Solved.ac Arena Badge">
+  </a>
+</p>
 <br>
 
 ### Quote
