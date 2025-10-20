@@ -17,7 +17,7 @@ I’m not just someone who works with technology — I solve problems through re
   <a href="https://solved.ac/667700996">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=667700996" alt="Solved.ac Profile" width="48%">
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=667700996&layout=compact&langs_count=4&hide=scss,MDX,css,html&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=667700996&layout=compact&langs_count=4&hide=scss,MDX,css,html,javascript,python&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true" width="48%">
 </div>
 
 <hr>
