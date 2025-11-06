@@ -21,9 +21,3 @@ I’m not just someone who works with technology — I solve problems through re
 </div>
 
 <hr>
-
-### 🗨️ Quote
-<blockquote>
-  <p>"Logic. Reason. Form."</p>
-  <p>— Hwan</p>
-</blockquote>
