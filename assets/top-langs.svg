@@ -3,13 +3,13 @@
     .title { font: 700 20px 'Segoe UI', Arial, sans-serif; fill: #f0f6fc; }
     .label { font: 600 14px 'Segoe UI', Arial, sans-serif; fill: #f0f6fc; }
     .percent { font: 600 14px 'Segoe UI', Arial, sans-serif; fill: #f0f6fc; text-anchor: end; }
-    .bg { fill: #0d1117; }
-    .card { fill: #161b22; stroke: #30363d; stroke-width: 1; rx: 12; }
+    .bg { fill: transparent; }
+    .card { fill: transparent; stroke-width: 0; }
   </style>
   <rect class="bg" width="350" height="220" rx="16" />
   <rect class="card" x="8" y="8" width="334" height="204" rx="14" />
   <text class="title" x="26" y="52">Top Languages</text>
-  <g transform="translate(30,60)">
+  <g transform="translate(30,70)">
     <rect x="0" y="0" width="0" height="0" fill="none" />
     <text class="label" x="0" y="20">Rust</text>
     <rect x="120" y="4" width="135" height="16" fill="#dea584" rx="6" />
