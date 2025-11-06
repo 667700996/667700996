@@ -1,4 +1,4 @@
-<svg width="350" height="170" viewBox="0 0 350 170" xmlns="http://www.w3.org/2000/svg">
+<svg width="350" height="190" viewBox="0 0 350 190" xmlns="http://www.w3.org/2000/svg">
   <style>
     .title { font: 700 20px 'Segoe UI', Arial, sans-serif; fill: #f0f6fc; }
     .label { font: 600 14px 'Segoe UI', Arial, sans-serif; fill: #f0f6fc; }
@@ -6,25 +6,25 @@
     .bg { fill: #0d1117; }
     .card { fill: #161b22; stroke: #30363d; stroke-width: 1; rx: 12; }
   </style>
-  <rect class="bg" width="350" height="170" rx="16" />
-  <rect class="card" x="8" y="8" width="334" height="154" rx="14" />
-  <text class="title" x="26" y="44">Top Languages</text>
-  <g transform="translate(30,70)">
+  <rect class="bg" width="350" height="190" rx="16" />
+  <rect class="card" x="8" y="8" width="334" height="174" rx="14" />
+  <text class="title" x="26" y="52">Top Languages</text>
+  <g transform="translate(30,80)">
     <rect x="0" y="0" width="0" height="0" fill="none" />
-    <text class="label" x="0" y="18">Rust</text>
-    <rect x="120" y="2" width="135" height="16" fill="#dea584" rx="6" />
-    <text class="percent" x="296" y="18">30%</text>
+    <text class="label" x="0" y="20">Rust</text>
+    <rect x="120" y="4" width="135" height="16" fill="#dea584" rx="6" />
+    <text class="percent" x="296" y="20">30%</text>
 
-    <text class="label" x="0" y="48">Python</text>
-    <rect x="120" y="32" width="135" height="16" fill="#3776ab" rx="6" />
-    <text class="percent" x="296" y="48">30%</text>
+    <text class="label" x="0" y="54">Python</text>
+    <rect x="120" y="38" width="135" height="16" fill="#3776ab" rx="6" />
+    <text class="percent" x="296" y="54">30%</text>
 
-    <text class="label" x="0" y="78">Svelte</text>
-    <rect x="120" y="62" width="90" height="16" fill="#ff3e00" rx="6" />
-    <text class="percent" x="296" y="78">20%</text>
+    <text class="label" x="0" y="88">Svelte</text>
+    <rect x="120" y="72" width="90" height="16" fill="#ff3e00" rx="6" />
+    <text class="percent" x="296" y="88">20%</text>
 
-    <text class="label" x="0" y="108">React</text>
-    <rect x="120" y="92" width="90" height="16" fill="#61dafb" rx="6" />
-    <text class="percent" x="296" y="108">20%</text>
+    <text class="label" x="0" y="122">React</text>
+    <rect x="120" y="106" width="90" height="16" fill="#61dafb" rx="6" />
+    <text class="percent" x="296" y="122">20%</text>
   </g>
 </svg>
