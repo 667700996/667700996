@@ -1,7 +1,5 @@
 <h1 align="center">Hwan</h1>
 <p align="center"><b>AI Researcher • Full-Stack Architect • Systems Leader</b></p>
-<hr>
-
 ### 👤 Introduce
 I’m a full-stack developer bridging AI research, scalable infrastructure, and thoughtful front-end design. From AI prompt engineering to large-scale infrastructure, I design precise and reliable systems.
 
