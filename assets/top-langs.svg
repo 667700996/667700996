@@ -1,28 +1,26 @@
-<svg width="350" height="220" viewBox="0 0 350 220" xmlns="http://www.w3.org/2000/svg">
+<svg width="350" height="220" viewBox="0 0 350 220" xmlns="http://www.w3.org/2000/svg" style="background:#0d1117">
   <style>
     .title { font: 700 20px 'Segoe UI', Arial, sans-serif; fill: #f0f6fc; }
     .label { font: 600 14px 'Segoe UI', Arial, sans-serif; fill: #f0f6fc; }
     .percent { font: 600 14px 'Segoe UI', Arial, sans-serif; fill: #f0f6fc; text-anchor: end; }
-    .bg { fill: #0d1117; }
   </style>
-  <rect class="bg" width="350" height="220" rx="16" />
   <text class="title" x="26" y="54">Top Languages</text>
   <g transform="translate(30,92)">
     <rect x="0" y="0" width="0" height="0" fill="none" />
-    <text class="label" x="0" y="20">Rust</text>
-    <rect x="120" y="4" width="135" height="16" fill="#dea584" rx="6" />
-    <text class="percent" x="296" y="20">30%</text>
+    <text class="label" x="0" y="26">Rust</text>
+    <rect x="120" y="10" width="135" height="16" fill="#dea584" rx="6" />
+    <text class="percent" x="296" y="26">30%</text>
 
-    <text class="label" x="0" y="55">Python</text>
-    <rect x="120" y="39" width="135" height="16" fill="#3776ab" rx="6" />
-    <text class="percent" x="296" y="55">30%</text>
+    <text class="label" x="0" y="56">Python</text>
+    <rect x="120" y="40" width="135" height="16" fill="#3776ab" rx="6" />
+    <text class="percent" x="296" y="56">30%</text>
 
-    <text class="label" x="0" y="90">Svelte</text>
-    <rect x="120" y="74" width="90" height="16" fill="#ff3e00" rx="6" />
-    <text class="percent" x="296" y="90">20%</text>
+    <text class="label" x="0" y="86">Svelte</text>
+    <rect x="120" y="70" width="90" height="16" fill="#ff3e00" rx="6" />
+    <text class="percent" x="296" y="86">20%</text>
 
-    <text class="label" x="0" y="125">React</text>
-    <rect x="120" y="109" width="90" height="16" fill="#61dafb" rx="6" />
-    <text class="percent" x="296" y="125">20%</text>
+    <text class="label" x="0" y="116">React</text>
+    <rect x="120" y="100" width="90" height="16" fill="#61dafb" rx="6" />
+    <text class="percent" x="296" y="116">20%</text>
   </g>
 </svg>
