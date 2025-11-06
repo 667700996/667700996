@@ -1,5 +1,7 @@
 <h1 align="center">Hwan</h1>
 <p align="center"><b>AI Researcher • Full-Stack Architect • Systems Leader</b></p>
+<hr>
+
 ### 👤 Introduce
 I’m a full-stack developer bridging AI research, scalable infrastructure, and thoughtful front-end design. From AI prompt engineering to large-scale infrastructure, I design precise and reliable systems.
 
@@ -17,8 +19,3 @@ I’m not just someone who works with technology — I solve problems through re
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=299-792-458&layout=compact&langs_count=4&hide=css,scss,mdx,go,java,html,c,cpp,cmake,jupyter%20notebook,shell,typescript,kotlin,swift,objective-c,php,ruby,scala,perl,groovy,elixir,erlang,haskell&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&custom_title=Rust%20•%20Python%20•%20Svelte%20•%20React&cache_seconds=3600&include_orgs=true&v=2024112104" width="48%">
 </div>
-
-<hr>
-</div>
-
-<hr>
