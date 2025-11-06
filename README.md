@@ -17,5 +17,5 @@ I’m not just someone who works with technology — I solve problems through re
   <a href="https://solved.ac/299-792-458">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=299-792-458" alt="Solved.ac Profile" width="48%" height="220px">
   </a>
-  <img src="./assets/top-langs.svg?v=4" alt="Rust 30%, Python 30%, Svelte 20%, React 20%" width="48%" height="220px">
+  <img src="./assets/top-langs.svg?v=4" alt="Rust 35%, C++ 25%, SvelteKit 20%, React 20%" width="48%" height="220px">
 </div>
