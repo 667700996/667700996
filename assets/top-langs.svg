@@ -1,4 +1,4 @@
-<svg width="480" height="180" viewBox="0 0 480 180" xmlns="http://www.w3.org/2000/svg">
+<svg width="480" height="195" viewBox="0 0 480 195" xmlns="http://www.w3.org/2000/svg">
   <style>
     .title { font: 700 20px 'Segoe UI', Arial, sans-serif; fill: #f0f6fc; }
     .label { font: 600 14px 'Segoe UI', Arial, sans-serif; fill: #f0f6fc; }
@@ -6,10 +6,10 @@
     .bg { fill: #0d1117; }
     .card { fill: #161b22; stroke: #30363d; stroke-width: 1; rx: 12; }
   </style>
-  <rect class="bg" width="480" height="180" rx="18" />
-  <rect class="card" x="8" y="8" width="464" height="164" rx="14" />
-  <text class="title" x="32" y="48">Top Languages</text>
-  <g transform="translate(40,70)">
+  <rect class="bg" width="480" height="195" rx="18" />
+  <rect class="card" x="8" y="8" width="464" height="179" rx="14" />
+  <text class="title" x="32" y="54">Top Languages</text>
+  <g transform="translate(40,80)">
     <rect x="0" y="0" width="0" height="0" fill="none" />
     <text class="label" x="0" y="18">Rust</text>
     <rect x="100" y="2" width="240" height="16" fill="#dea584" rx="6" />
