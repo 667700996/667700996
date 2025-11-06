@@ -19,3 +19,6 @@ I’m not just someone who works with technology — I solve problems through re
 </div>
 
 <hr>
+</div>
+
+<hr>
