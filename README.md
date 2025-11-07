@@ -1,6 +1,6 @@
 <h1 align="center">Hwan</h1>
 <p align="center"><b>AI Researcher • Full-Stack Architect • Systems Leader</b></p>
-<hr>
+<p align="center">---</p>
 
 <div align="center">
   <a href="https://solved.ac/299-792-458">
