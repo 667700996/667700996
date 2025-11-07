@@ -11,12 +11,6 @@
 
 <p align="center">
   <a href="https://github.com/299-792-458">
-    <img src="https://streak-stats.demolab.com?user=299-792-458&theme=blueberry-duo&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak Stats" width="100%" height="220px">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/299-792-458">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=299-792-458&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="100%">
   </a>
 </p>
