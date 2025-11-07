@@ -11,6 +11,6 @@
 
 <p align="center" style="margin-top: 16px;">
   <a href="https://github.com/299-792-458">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=299-792-458&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=299-792-458&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" width="100%">
   </a>
 </p>
