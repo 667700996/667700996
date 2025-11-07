@@ -8,19 +8,27 @@
   <g transform="translate(30,92)">
     <rect x="0" y="0" width="0" height="0" fill="none" />
     <text class="label" x="0" y="26">Rust</text>
-    <rect x="120" y="10" width="135" height="16" fill="#dea584" rx="6" />
+    <rect x="120" y="10" width="135" height="16" fill="#dea584" rx="6">
+      <animate attributeName="width" from="0" to="135" dur="0.8s" begin="0.1s" fill="freeze" />
+    </rect>
     <text class="percent" x="296" y="26">30%</text>
 
     <text class="label" x="0" y="56">C++</text>
-    <rect x="120" y="40" width="135" height="16" fill="#00599c" rx="6" />
+    <rect x="120" y="40" width="135" height="16" fill="#00599c" rx="6">
+      <animate attributeName="width" from="0" to="135" dur="0.8s" begin="0.2s" fill="freeze" />
+    </rect>
     <text class="percent" x="296" y="56">30%</text>
 
     <text class="label" x="0" y="86">SvelteKit</text>
-    <rect x="120" y="70" width="113" height="16" fill="#ff3e00" rx="6" />
+    <rect x="120" y="70" width="113" height="16" fill="#ff3e00" rx="6">
+      <animate attributeName="width" from="0" to="113" dur="0.8s" begin="0.3s" fill="freeze" />
+    </rect>
     <text class="percent" x="296" y="86">25%</text>
 
     <text class="label" x="0" y="116">React</text>
-    <rect x="120" y="100" width="68" height="16" fill="#61dafb" rx="6" />
+    <rect x="120" y="100" width="68" height="16" fill="#61dafb" rx="6">
+      <animate attributeName="width" from="0" to="68" dur="0.8s" begin="0.4s" fill="freeze" />
+    </rect>
     <text class="percent" x="296" y="116">15%</text>
   </g>
 </svg>
