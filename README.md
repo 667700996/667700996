@@ -1,8 +1,8 @@
 <h1 align="center">Hwan</h1>
 <p align="center"><b>AI Researcher • Full-Stack Architect • Systems Leader</b></p>
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=299-792-458&theme=blueberry-duo&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak Stats" width="100%">
+  <a href="https://github.com/299-792-458">
+    <img src="https://streak-stats.demolab.com?user=299-792-458&theme=blueberry-duo&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak Stats" width="100%" height="220px">
   </a>
 </p>
 
