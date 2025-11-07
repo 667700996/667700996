@@ -1,5 +1,8 @@
 <h1 align="center">Hwan</h1>
 <p align="center"><b>AI Researcher • Full-Stack Architect • Systems Leader</b></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/demo/" alt="GitHub Streak Stats" width="100%">
+</p>
 
 <div align="center">
   <a href="https://solved.ac/299_792_458_100">
