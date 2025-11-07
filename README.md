@@ -12,3 +12,9 @@
   </a>
   <img src="./assets/top-langs.svg?v=4" alt="Rust 30%, C++ 30%, SvelteKit 25%, React 15%" width="48%" height="220px">
 </div>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=299-792-458" alt="GitHub Activity Graph" width="100%">
+  </a>
+</p>
