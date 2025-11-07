@@ -2,11 +2,7 @@
 <p align="center"><b>AI Researcher • Full-Stack Architect • Systems Leader</b></p>
 <hr>
 
-### 📊 Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=299-792-458&theme=github-dark-blue&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Streak">
-</div>
-<div align="center" style="margin-top:18px;">
   <a href="https://solved.ac/299-792-458">
     <img src="https://mazassumnida.wtf/api/generate_badge?boj=299-792-458" alt="Solved.ac Profile" width="48%" height="220px">
   </a>
