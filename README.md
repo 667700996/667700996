@@ -1,6 +1,6 @@
 <h1 align="center">Hwan</h1>
 <p align="center"><b>AI Researcher • Full-Stack Architect • Systems Leader</b></p>
-<div align="center" style="margin-bottom: 24px;">
+<div align="center" style="margin-bottom: 0;">
   <a href="https://solved.ac/299_792_458_100">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=299_792_458_100" alt="Solved.ac Profile" width="48%" height="220px">
   </a>
@@ -9,8 +9,8 @@
   </a>
 </div>
 
-<p align="center" style="margin-top: 16px;">
+<p align="center">
   <a href="https://github.com/299-792-458">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=299-792-458&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=299-792-458&theme=react-dark&hide_border=true&hide_title=true" alt="GitHub Activity Graph" width="100%">
   </a>
 </p>
