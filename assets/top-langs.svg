@@ -8,27 +8,27 @@
   <g transform="translate(30,92)">
     <rect x="0" y="0" width="0" height="0" fill="none" />
     <text class="label" x="0" y="26">Rust</text>
-    <rect x="120" y="10" width="150" height="16" fill="#dea584" rx="6">
-      <animate attributeName="width" from="0" to="150" dur="1.6s" begin="0.1s" fill="freeze" />
+    <rect x="120" y="10" width="135" height="16" fill="#dea584" rx="6">
+      <animate attributeName="width" from="0" to="135" dur="1.6s" begin="0.1s" fill="freeze" />
     </rect>
-    <text class="percent" x="315" y="26">40%</text>
+    <text class="percent" x="300" y="26">30%</text>
 
     <text class="label" x="0" y="56">C++</text>
-    <rect x="120" y="40" width="112" height="16" fill="#00599c" rx="6">
-      <animate attributeName="width" from="0" to="112" dur="1.6s" begin="0.2s" fill="freeze" />
+    <rect x="120" y="40" width="135" height="16" fill="#00599c" rx="6">
+      <animate attributeName="width" from="0" to="135" dur="1.6s" begin="0.2s" fill="freeze" />
     </rect>
-    <text class="percent" x="315" y="56">30%</text>
+    <text class="percent" x="300" y="56">30%</text>
 
     <text class="label" x="0" y="86">SvelteKit</text>
-    <rect x="120" y="70" width="75" height="16" fill="#ff3e00" rx="6">
-      <animate attributeName="width" from="0" to="75" dur="1.6s" begin="0.3s" fill="freeze" />
+    <rect x="120" y="70" width="90" height="16" fill="#ff3e00" rx="6">
+      <animate attributeName="width" from="0" to="90" dur="1.6s" begin="0.3s" fill="freeze" />
     </rect>
-    <text class="percent" x="315" y="86">20%</text>
+    <text class="percent" x="300" y="86">20%</text>
 
     <text class="label" x="0" y="116">React</text>
-    <rect x="120" y="100" width="38" height="16" fill="#61dafb" rx="6">
-      <animate attributeName="width" from="0" to="38" dur="1.6s" begin="0.4s" fill="freeze" />
+    <rect x="120" y="100" width="90" height="16" fill="#61dafb" rx="6">
+      <animate attributeName="width" from="0" to="90" dur="1.6s" begin="0.4s" fill="freeze" />
     </rect>
-    <text class="percent" x="315" y="116">10%</text>
+    <text class="percent" x="300" y="116">20%</text>
   </g>
 </svg>
