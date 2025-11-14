@@ -21,13 +21,3 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=299-792-458&theme=react-dark&hide_border=true&hide_title=true" alt="GitHub Activity Graph" width="100%">
   </a>
 </p>
-
-## 방문자 기록
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2F299-792-458.github.io&title=Visitors&count_bg=%233290FF&icon=github.svg">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2F299-792-458.github.io&title=Visitors&count_bg=%233290FF&icon=github.svg" alt="Visitor Count">
-  </a>
-  <br>
-  <a href="https://299-792-458.github.io/log/">방문자 로그 바로가기</a>
-</p>
