@@ -2,7 +2,7 @@
 <p align="center"><b>AI Researcher • Full-Stack Architect • Systems Leader</b></p>
 <div align="right">
   <a href="https://myhits.vercel.app">
-    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F299-792-458?color=gray&label=Visits&size=large&base_count=50" alt="Visits">
+    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F299-792-458?color=gray&label=Visits&size=large&base_count=299792" alt="Visits">
   </a>
 </div>
 <div align="center" style="margin-bottom: 0;">
