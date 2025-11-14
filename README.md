@@ -1,11 +1,9 @@
 <h1 align="center">Hwan</h1>
 <p align="center"><b>AI Researcher • Full-Stack Architect • Systems Leader</b></p>
 <div align="right">
-  <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2F299-792-458.github.io&title=Visitors&count_bg=%233290FF&icon=github.svg">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2F299-792-458.github.io&title=Visitors&count_bg=%233290FF&icon=github.svg" alt="Visitor Count">
+  <a href="https://myhits.vercel.app">
+    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F299-792-458?color=gray&label=Visits&size=large&base_count=50" alt="Visits">
   </a>
-  <br>
-  <a href="https://299-792-458.github.io/log/">방문자 로그</a>
 </div>
 <div align="center" style="margin-bottom: 0;">
   <a href="https://solved.ac/299_792_458_100">
