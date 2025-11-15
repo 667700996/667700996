@@ -1,7 +1,7 @@
 <h1 align="center">Hwan</h1>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
+<div>
+  <div style="float: left;">
     <a href="https://github.com/299-792-458-Lab">
       <img src="https://img.shields.io/badge/-Lab-black?style=for-the-badge&logo=github&logoColor=white" alt="Lab">
     </a>
@@ -12,11 +12,12 @@
       <img src="https://img.shields.io/badge/-Backup-black?style=for-the-badge&logo=github&logoColor=white" alt="Backup">
     </a>
   </div>
-  <div>
+  <div style="float: right;">
     <a href="https://myhits.vercel.app">
       <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F299-792-458?color=gray&label=Visits&size=large&base_count=299792" alt="Visits">
     </a>
   </div>
+  <div style="clear: both;"></div>
 </div>
 <div align="center" style="margin-bottom: 0;">
   <a href="https://solved.ac/299_792_458_100">
