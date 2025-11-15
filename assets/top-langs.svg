@@ -1,11 +1,11 @@
-<svg width="350" height="220" viewBox="0 0 350 220" xmlns="http://www.w3.org/2000/svg" style="background:#0d1117">
+<svg width="350" height="197" viewBox="0 0 350 197" xmlns="http://www.w3.org/2000/svg" style="background:#0d1117">
   <style>
     .title { font: 700 20px 'Segoe UI', Arial, sans-serif; fill: #f0f6fc; }
     .label { font: 600 14px 'Segoe UI', Arial, sans-serif; fill: #f0f6fc; }
     .percent { font: 600 14px 'Segoe UI', Arial, sans-serif; fill: #f0f6fc; text-anchor: end; }
   </style>
-  <text class="title" x="26" y="70">Top Languages</text>
-  <g transform="translate(30,92)">
+  <text class="title" x="26" y="55">Top Languages</text>
+  <g transform="translate(30,77)">
     <rect x="0" y="0" width="0" height="0" fill="none" />
     <text class="label" x="0" y="26">Rust</text>
     <rect x="120" y="10" width="135" height="16" fill="#dea584" rx="6">
