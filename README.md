@@ -2,7 +2,7 @@
 
 <table width="100%">
   <tr>
-    <td width="99%">
+    <td>
       <a href="https://github.com/299-792-458-Lab">
         <img src="https://img.shields.io/badge/-Lab-black?style=for-the-badge&logo=github&logoColor=white" alt="Lab">
       </a>
@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/-Backup-black?style=for-the-badge&logo=github&logoColor=white" alt="Backup">
       </a>
     </td>
-    <td width="1%" align="right">
+    <td align="right">
       <a href="https://myhits.vercel.app">
         <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F299-792-458?color=gray&label=Visits&size=large&base_count=299792" alt="Visits">
       </a>
