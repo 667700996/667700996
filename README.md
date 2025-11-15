@@ -1,5 +1,5 @@
 <h1 align="center">Hwan</h1>
-<p align="center"><b>AI Researcher • Full-Stack Architect • Systems Leader</b></p>
+
 <div align="right">
   <a href="https://myhits.vercel.app">
     <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2F299-792-458?color=gray&label=Visits&size=large&base_count=299792" alt="Visits">
@@ -17,5 +17,16 @@
 <p align="center">
   <a href="https://github.com/299-792-458">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=299-792-458&theme=react-dark&hide_border=true&hide_title=true" alt="GitHub Activity Graph" width="100%">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/299-792-458-Lab">
+    <img src="https://img.shields.io/badge/-Lab-black?style=for-the-badge&logo=github&logoColor=white" alt="Lab">
+  </a>
+  <a href="https://github.com/299-792-458-Playground">
+    <img src="https://img.shields.io/badge/-Playground-black?style=for-the-badge&logo=github&logoColor=white" alt="Playground">
+  </a>
+  <a href="https://github.com/299-792-458-Backup">
+    <img src="https://img.shields.io/badge/-Backup-black?style=for-the-badge&logo=github&logoColor=white" alt="Backup">
   </a>
 </p>
