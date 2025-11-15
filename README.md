@@ -19,3 +19,4 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=299-792-458&theme=react-dark&hide_border=true&hide_title=true" alt="GitHub Activity Graph" width="100%">
   </a>
 </p>
+[![299-792-458's GitHub stats](https://github-profile-3d-contrib.vercel.app/api?username=299-792-458&theme=night_view)](https://github.com/yoshi389111/github-profile-3d-contrib)
