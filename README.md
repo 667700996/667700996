@@ -1,6 +1,6 @@
 <h1 align="center">Hwan</h1>
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap;">
   <div style="text-align: left;">
     <a href="https://github.com/299-792-458-Lab">
       <img src="https://img.shields.io/badge/-Lab-black?style=for-the-badge&logo=github&logoColor=white" alt="Lab">
