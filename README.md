@@ -1,6 +1,6 @@
 <h1 align="center">Hwan</h1>
 
-<div style="text-align: left;">
+<div style="text-align: right;">
   <a href="https://github.com/299-792-458-Lab">
     <img src="https://img.shields.io/badge/-Lab-black?style=for-the-badge&logo=github&logoColor=white" alt="Lab">
   </a>
