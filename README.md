@@ -19,3 +19,4 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=299-792-458&theme=react-dark&hide_border=true&hide_title=true" alt="GitHub Activity Graph" width="100%">
   </a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=299-792-458)](https://github.com/anuraghazra/github-readme-stats)
