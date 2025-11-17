@@ -4,13 +4,13 @@
 
 ## Contact
 
-Hwan@onnuripg.com
+· Hwan@onnuripg.com
 
 ## Links
 
-· https://299-792-458.github.io/  
-· https://solved.ac/profile/299_792_458_100
+· 299-792-458.github.io  
+· solved.ac/profile/299_792_458_100
 
 ## News
 
-· https://299-792-458.github.io/log/index
+· 299-792-458.github.io/log/index
