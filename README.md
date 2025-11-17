@@ -4,10 +4,14 @@
 
 · Hwan@onnuripg.com
 
+---
+
 ## Links
 
 · 299-792-458.github.io  
 · solved.ac/profile/299_792_458_100
+
+---
 
 ## News
 
